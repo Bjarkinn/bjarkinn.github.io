@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.theone.theoneapp",
+      "sha256_cert_fingerprints": [
+        "67:7D:16:4F:5B:CB:A2:7B:BB:A7:07:3E:91:89:B9:62:48:0F:5E:6B:D6:B5:E2:58:A4:64:7E:18:28:79:4B:BB"
+      ]
+    }
+  }
+]
