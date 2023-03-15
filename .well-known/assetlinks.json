@@ -4,8 +4,9 @@
     "target": {
       "namespace": "android_app",
       "package_name": "com.theone.theoneapp",
-      "sha256_cert_fingerprints":
-        ["FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C"]
+      "sha256_cert_fingerprints": [
+        "67:7D:16:4F:5B:CB:A2:7B:BB:A7:07:3E:91:89:B9:62:48:0F:5E:6B:D6:B5:E2:58:A4:64:7E:18:28:79:4B:BB"
+      ]
     }
   }
 ]
